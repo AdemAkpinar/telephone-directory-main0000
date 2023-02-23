@@ -1,0 +1,64 @@
+{
+  "persons": [
+    {
+      "id": "1675421663941",
+      "name": "Johnşşş",
+      "surname": "Dewey0000ğğğppp",
+      "number": "111222333444",
+      "groupId": "2"
+    },
+    {
+      "id": "1675421777589",
+      "name": "Ahmet",
+      "surname": "yıldrım",
+      "number": "0008889996666",
+      "groupId": "1"
+    },
+    {
+      "id": "1677092221987",
+      "name": "xzxax",
+      "surname": "xz<xz<xzxzx",
+      "number": "1010202020",
+      "groupId": "3"
+    },
+    {
+      "id": "1677173155407",
+      "name": "hgfhfgh654654654654",
+      "surname": "gfhgfhfgh65654654654646546",
+      "number": "65646546",
+      "groupId": "3"
+    },
+    {
+      "id": "1677173250844",
+      "name": "lll0000",
+      "surname": "llll",
+      "number": "000",
+      "groupId": "0"
+    },
+    {
+      "id": "1677173394162",
+      "name": "jjjjjjjjjjjj88888",
+      "surname": "jjjjj",
+      "number": "8888",
+      "groupId": "0"
+    }
+  ],
+  "groups": [
+    {
+      "id": "0",
+      "name": "Grup Seçiniz"
+    },
+    {
+      "id": "1",
+      "name": "Ailem"
+    },
+    {
+      "id": "2",
+      "name": "Arkadaşlarım"
+    },
+    {
+      "id": "3",
+      "name": "Diğer"
+    }
+  ]
+}
